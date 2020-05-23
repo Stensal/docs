@@ -1,0 +1,16 @@
+Stensal CEE Studio
+==================
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+
+   CS50 Tutorial.rst
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
