@@ -16,17 +16,14 @@
 A Quick Start on Psets
 ======================
 
-.. _loginbar:
-.. image:: images/login_page.png
-
-:ref:`1<loginbar>`. Log-in
-**************************
-    Log-into the system either anonymously or using Google/Github.
+1. Starting up
+*******************************
+    Click on this link https://cde.stensal.io/2020-cs50 to go to the demo pages.
     :raw-html:`<br />`
     You should be introduced with this page:
 
-.. _mainbar:
-.. image:: images/main_page.png
+    .. _mainbar:
+    .. image:: images/main_page.png
 
 :ref:`2<mainbar>`. Opening up the Projects Folder
 *************************************************
@@ -42,7 +39,15 @@ A Quick Start on Psets
 :ref:`3<mainbar>`. Cloning the project
 **************************************
     Click on the |clone_button| to clone the pset to your account so you can save changes. 
-    This will redirect you to a similar looking page, but this time with different buttons on the top-right, shown below:
+    :raw-html:`<br />`
+    It should show you this page:
+
+    .. _loginbar:
+    .. image:: images/login_page.png
+
+    Log in anonomously or with Github/Google.
+    :raw-html:`<br />`
+    This will redirect you to a similar looking page as the :ref:`page before<mainbar>`, but this time with different buttons on the top-right, shown below:
 
     .. _tooltip:
     .. image:: images/another_tooltip.png
