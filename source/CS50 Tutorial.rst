@@ -1,15 +1,15 @@
 .. role:: raw-html(raw)
     :format: html
 
-.. |clone_button| image:: images/clone_button.png
+.. |clone_button| image:: _static/images/clone_button.png
     :height: 16
     :align: bottom
 
-.. |run_button| image:: images/run_button.png
+.. |run_button| image:: _static/images/run_button.png
     :height: 16
     :align: bottom
 
-.. |save_button| image:: images/save-button.png
+.. |save_button| image:: _static/images/save-button.png
     :height: 16
     :align: bottom
 
@@ -23,7 +23,7 @@ A Quick Start on Psets
     You should be introduced with this page:
 
     .. _mainbar:
-    .. image:: images/main_page.png
+    .. image:: _static/images/main_page.png
 
 :ref:`2<mainbar>`. Opening up the Projects Folder
 *************************************************
@@ -32,7 +32,7 @@ A Quick Start on Psets
     :raw-html:`<br />`
     The panel should look like the below:
 
-    .. image:: images/Projects_part.png
+    .. image:: _static/images/Projects_part.png
 
     Click on the Pset that you want to use to open it.
 
@@ -43,26 +43,26 @@ A Quick Start on Psets
     It should show you this page:
 
     .. _loginbar:
-    .. image:: images/login_page.png
+    .. image:: _static/images/login_page.png
 
     Log in anonomously or with Github/Google.
     :raw-html:`<br />`
     This will redirect you to a similar looking page as the :ref:`page before<mainbar>`, but this time with different buttons on the top-right, shown below:
 
     .. _tooltip:
-    .. image:: images/another_tooltip.png
+    .. image:: _static/images/another_tooltip.png
 
 
 :ref:`4<mainbar>`. Opening Your Project
 ***************************************
     If done correctly, your panel on the left should look like below (we are using pset2 for this example):
 
-    .. image:: images/project_panel.png
+    .. image:: _static/images/project_panel.png
 
     Click on any of the files names to open up the file. 
     The right side of your screen (:ref:`5<mainbar>`) should look something like below:
 
-    .. image:: images/code_panel.png
+    .. image:: _static/images/code_panel.png
 
 .. _runprog:
 
@@ -73,7 +73,7 @@ A Quick Start on Psets
     :raw-html:`<br />`
     If clicked, the IDE should pop up the compilation panel (:ref:`7<mainbar>`) before going terminal panel (:ref:`8<mainbar>`), shown below:
 
-    .. image:: images/compilation_panel.png
+    .. image:: _static/images/compilation_panel.png
 
     In this tab, you can run your program by calling the function as you would in a normal terminal. 
     Note that if you change anything in the code, you must click the |run_button| button again.
@@ -92,7 +92,7 @@ Additional Info. Pset4 Configs
 Since pset4 requires a bmp, there are some things you have to do to set it up in the build configuration, shown below:
 
     .. _buildinfo:
-    .. image:: images/build_information.png
+    .. image:: _static/images/build_information.png
 
 Changing build configuration
 ****************************
@@ -101,7 +101,7 @@ You can click on that to open up something called .stensal_project_configuration
 We will be focusing on the top part of the configuration for now, shown below:
 
     .. _topconfig:
-    .. image:: images/configuration_menu.png
+    .. image:: _static/images/configuration_menu.png
 
 Changing the top parts
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -110,7 +110,7 @@ Changing the top parts
     Doing so will allow you to enable the bottom panel, shown below:
 
     .. _bottomconfig:
-    .. image:: images/configuration_continue.png
+    .. image:: _static/images/configuration_continue.png
 
 Changing the bottom parts
 ^^^^^^^^^^^^^^^^^^^^^^^^^

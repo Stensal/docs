@@ -6,3 +6,4 @@ Stensal CEE Studio
    :caption: Contents:
 
    CS50 Tutorial.rst
+   Usage.rst
