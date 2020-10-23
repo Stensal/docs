@@ -39,7 +39,7 @@ A Quick Start on Psets
 :ref:`3<mainbar>`. Cloning the project
 **************************************
     Click on the |clone_button| to clone the pset to your account so you can save changes. 
-    :raw-html:`<br />`
+    :raw-html:`<br />`  
     It should show you this page:
 
     .. _loginbar:
